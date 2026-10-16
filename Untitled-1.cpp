@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     
 int code;
-    cout << "Enter a positive integer code: ";
+    cout << "Enter a negative integer: ";
     cin >> code;
 
     int originalCode = code;
